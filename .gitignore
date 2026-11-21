@@ -13,4 +13,9 @@ venv/
 Thumbs.db
 
 # Distribution / packaging
-dist/
+dist/.venv/
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+.env
