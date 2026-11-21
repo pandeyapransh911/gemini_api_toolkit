@@ -1,8 +1,3 @@
-# Gemini API Toolkit
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PyPI Version](https://img.shields.io/pypi/v/gemini-api-toolkit)](https://pypi.org/project/gemini-api-toolkit/)
-
 Python wrapper for the [Google Gemini API](https://ai.google.dev/gemini-api/docs) (using the official `google-genai` SDK).
 
 ## Comparison: Manually vs. Toolkit
